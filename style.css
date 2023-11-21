@@ -1,0 +1,29 @@
+#main{
+    width: 100%;
+    height: 800px;
+    border:none;
+}
+
+.main_div{
+    border:1px solid gray;
+
+}
+
+.main_div img{
+    width: 80%;
+
+}
+
+#hi{
+    text-decoration: underline;
+}
+
+#img{
+    width: 180px;
+}
+
+#dussehra,iframe{
+    height: 500px;
+    width: 1000px;
+}
+
